@@ -1,0 +1,213 @@
+Cambios en Procedimientos 
+
+ 
+
+Incidencias de IEX Y Ethos IQ 
+
+Manu;Andrés; 
+
+ 
+
+Lista de distribución Incidencia Gplus - List of people o be notified 
+
+Marco;Andrés; Nacho; Manu; Greg 
+
+ 
+
+Scottish Power Changes – Robert ha mandado un mail con un nuevo procedimiento para las CRQs de UK(23:01 17:52 – correo externo está anclado) 
+
+Marco; Manu; Andrés; Kevin, Greg; Nacho 
+
+ 
+
+Incidencias de un solo usuario en UK: Robert ha pedido que estas incidencias pasen 1ero por Telephony antes de crear caso a Alava/analizar (15/01 17:24 – correo externo)  
+Greg; Kevin; Marco; Manu; Andrés; Nacho 
+
+ 
+
+Alarmas Conexiones UK de desconexiónes que involucren servidores de UK, avisar a la lista de distribución que indica Robert. (Hilo INC000007246747 anclado correo externo: 15/01 16:09) 
+
+Greg; Kevin; Marco; Manu; Andrés; Nacho 
+
+ 
+
+ 
+
+Al mandar una nueva incidencia o petición o consulta a Álava incluir solo a:    
+
+Si es de NICE atencionalcliente@grupoalava.com, ST-COM y helpdesk@webersolutions.es 
+
+Si es de IEX helpdesk@webersolutions.es 
+
+Si es de Ethos IQ Support support@ethosiq.com, 'Justin Staley' justin.staley@ethosiq.com 
+
+ 
+
+ 
+
+CRQs PENDIENTES 
+
+ 
+
+CRQ000001395387 –  Instalacio de la tarea y el script de ciclados de log para el aplicativo GAD_es1. ANDRES MAÑANA 
+
+ 
+
+CRQ000001393423(sustituye a  CRQ000001392247), Implantación en curso 
+
+ 
+
+CRQ000001393423(sustituye a  CRQ000001392247), Operaciones ha preguntado a que hora se producira la indisponiblidad. La realizara proyectos. Emilio confirma que se ha ejecutado y todo funciona correctamente. 
+
+ 
+
+CRQ000001392508. Enviado mail a Carlos para que nos actualice la informacion de la CRQ y poder crear una nueva. La realizara Carlos. Se ha rechazado. Se espera crear otra con la información pendiente de Carlos 
+
+ 
+
+CRQ000001392502. Enviado mail a Carlos para que nos actualice la informacion de la CRQ. La realizara Carlos. Ha contestado con la información actualizada. Se espera aprobación. 
+
+ 
+
+CRQ000001390701. Programada: 08/02/2018 16hrs.  HILO: [Ticket#15335888] Alarmas SBC 16/01.  
+
+   
+
+CRQ000001377422 - 17/01/2018. WebChat CRQ para servicio pruebas en PROD, la realizó Cristóbal. Esperando confirmar que el upgrade solucinó la incidencia 
+
+ 
+
+CRQ000001396799 – Se pidió la CRQ para mañana miercoles a las 11 de la mañana para que Networking/Fabian realizaran la modificación en el firewall. ANDRES, mira en itsm que no la cancelen por algún motivo. Hilo externo Interconexión SIP Server – SBC (si la crq no está cancelada no estaría de mas pegarles un toque a NETWORKING para que sepan que la tienen) 
+
+ 
+
+Incidencias 
+
+ 
+
+INC000007442992 - DTMF issue abrimos nuevo caso a VDF para que vuelvan a revisar su red en busca de errores de DTMF (Antigua INC000007142368) 
+
+ 
+
+INC000007437556 - calls issue Esperando respuesta de cliente (por correo) para proceder a coger los logs para su posterior investigación. Cuando respondan inmediatamente a por los logs. No han respondido de momento 
+
+ 
+
+INC000007098606 – Raquel pidió recoger unos logs, se recogieron todos los que se encontraron, correo interno 
+
+ 
+
+INC000007409233 –  Hemos abierto caso en CMC SDB201447. Última respuesta de cliente enviada a Antonio de CMC (aunque el cliente indica que el problema lo podría estar causando una estrategia) 
+
+ 
+
+INC000007396793 –  Incidencia cerrada. Se ha comprobado que el error ha sido de SAP. No obstante, hay que permanecer atento al Task Manager del host primario. Crece el uso de memoria, aunque más despacio. Que no pase de 3,5GB. Se ha reiniciado esta noche y actualmente funciona correctamente 
+
+ 
+
+INC000007170190 - Open Meter Read IVR not hearing WEBMESGE4 error in both Preproduction and Production. Se realizó el arreglo en PRE pero nos indicaron que todavía no se hiciera en PRO, a petición de Raquel.  SP dijo que "no creen que esto ocurra en ninguna fecha cercana", que esperemos :(. Raquel va a hablar con Miguel Ángel (11/enero/2018) 
+
+ 
+
+INC000007345127 – Esperando respuesta de Metaframe/Negocios Crear CRQ Hilo interno, ojo los parametros estan cruzados. Correo interno [Hilo] TAREA] INC000007345127 Error CCPULSE. En el correo de Greg aparecen los parámetros correctamente. Creadas las CRQ000001393320 y CRQ000001393321 para la realización de estos cambios, enviado correo hilo interno y también al externo. 
+ 
+
+INC000007347866 - Se ha explicado a Miguel Angel que desde UCC hemos realizado las pruebas pertinentes para verificar que la aplicación funciona correctamente desde cliente pesado. Se ha enviado un correo al cliente con las modificaciones realizadas por NICE. En espera de la respuesta. 
+
+ 
+
+Tareas y Peticiones 
+
+ 
+
+Error en script de postproceso. Correo enviado a Álava. Es posible que Álava conteste a lo largo del día. 
+
+ 
+
+Grabadora ESP PRE equipo de la izquierda. No funciona.  
+
+ 
+
+Correo interno Dudas Genesys antes de irte¡¡: Preguntar mañana a Raquel si con la trampa que indica Carlos en el correo para transferir a la IVR de pasarela de pagos valdría para las pruebas que quiere hacer 
+
+ 
+
+Places solicitados por Jesus, correo interno: Jesus solicitó la creación de unos places para Konecta Barcelona, ví que ya estaban hechos, correo interno explicandolo 
+
+ 
+
+Restart of Salamanca Primary Gplus OOH [HILO]. Hoy (01/02/18) a las 00:00. Realizado, tras reiniciar el LCA del PS1GPL1, el Gplus que contiene se pudo arrancar desde el SCI sin problema (Igual Robert comenta porqué hilo se envió, él indicó ESE) 
+
+ 
+
+Hilo: [Consulta] - Vista Objetos y View CCPulse usuario Konecta – Ditel preguntó por problemas con CCPulse con un unico usuario de Citrix, se les preguntó un par de cosas, esperando respuesta 
+
+ 
+
+¿Alguien cambió las alarmas de Sentinel a correo no deseado? 
+
+ 
+
+[TAREA] INC000007098606 - Some calls in Infomart that do not have any corresponding queue or routing information. LA HACE NACHO 
+
+ 
+
+Alarmas críticas SBC. - Preguntado a Networking y a Patricia si nos pueden informar si está todo bien y a quien dirigirnos cuando las recibimos. [HILO] Re: [Ticket#15343565]Alarmas SBC. 
+
+ 
+
+Borrar y volver a crear el place de pre 55559. Alava nos ha informado que el error era el multiport, se ha realizado prueba y ya aparecen las grabaciones realizadas con este place.  
+
+ 
+
+Usuario no puede crear filtros ETK, consultamos a Alava, preguntar a base de datos si usuario tiene permiso. (AU129957  -  fdbsqlcccg0sq\nice) Esperando respuesta de BBDD. Preguntar a nacho. Le he escrito al correo que entiendo yo que es de BBDD (srv-sqlserver@ibermatica.com y srv-databasesdistributed@ibermatica.com) Se pregunta a Alava cual es el problema para poder responder al ultimo mail de Jesus de las 14:10. Alava indicó que el place que comentaba Jesus tenía distinta configuración, se la han cambiado y estamos a la espera de si se soluciona el problema. 
+
+ 
+
+HILO -> [TAREA][EQUIPO] Auditoría Alarmas . Continuar con el trabajo que detalla Raquel en el correo. Excel terminado con la información solicitada por Raquel en el mail del 19/01. Enviado mail al interno con mi continuación de la tarea y las dudas surgidas. Se han añadido unos pequeños cambios en el archivo_V2, en el apartado cambios, unas propuestas. Se ha buscado en la documentación de genesys los números de los detect event que faltaban en la ayuda del wizard, no se han encontrado. Hablado con Raquel, nos va a ayudar a buscar  
+
+ 
+
+RE: UCC BUG – (minor *) – Ref. ITSM: Nº INC000007215188 
+
+Raquel va a crear un caso en Genesys. Miguel Ángel ha solicitado los LOGs a Raquel para Genesys, esperando respuesta. 
+
+ 
+
+RE: UCC - Llamadas transferidas por "error aplicación IVR" - Diciembre 2017 – Nos piden repasar que pudo pasar el 27 sobre las 12 de la mañana para que la IVR recibiera tantas llamadas. Se han recogido los logs de los MCPs. Correo interno Manuel 04/04 13:11 Adicionalmente, se lo hemos escalado a Prosodie para que lo revise. Alarmas revisadas. 
+
+ 
+
+Petición: Jesús ha realizado consulta sobre el límite de duración de grabación en NICE, esperando respuesta de Álava. Respondido. Nueva pregunta de Jesús. Vamos a probar a realizar una llamada para ver durante cuánto tiempo se puede grabar. Andrés si lo necesita volverá a realizar la prueba. Realizar otra llamada de prueba para comprobar que se graban las 5h que nos comenta Alava. Hay que probar una llamada que supere las 5 horas. Llamada iniciada a las 19h aprox.para grabar 5horas y 30 minutos. Se cortó la grabación a las 5 h y media con el mismo resultado del finde, correo interno indicando resultados 
+
+ 
+
+Problema con el All log records del SCI. Se transmite la petición a DataBase Oracle como nos indica cliente. Miguel Angel les ha vuelto a insistir a BD y a P.Barroeta para que digan como llevarlo a cabo. Seguimos esperando respuesta del cliente. 
+
+ 
+
+Al agente de PRE del ordenador de la izquierda no le funciona el autoanswer, si no le das no lo coge, he mirado el config y ambos agentes tienen el autoanswer a "1". 
+
+ 
+
+Ya se ha implantado la tarea de ciclad de logs para el GAD_es para cada 30 dias. Falta hacer el knowledge sobre esto. 
+
+ 
+
+INFORMACIÓN ADICIONAL  
+
+ 
+
+Emilio ha parado los datasources del site 2 de reporting histórico, no arrancarlos hasta nuevo aviso.  
+
+ 
+
+NOTA!! Cuando se termine una CRQ acordarse de enviar el mail con el resultado del cambio a                 srv-ibopsmanagement@Getronics.com, Robert. Con el asunto:  Nº de CRQ – Servidores afectados – UCC – Tipo de cambio        Ej. CRQ1042553 - FCCCPS1RS2 - UCC - SW INSTALLATION/CONFIGURATION 
+
+ 
+
+INC000006732093, INC000006834381: Son incidencias de proyectos. De momento no hay que hacer nada 
+
+ 
+
+Para el chequeo de grabaciones en NICE se va a utilizar ahora el servidor SENTINEL con IPv4: 172.30.66.36. 
